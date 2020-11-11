@@ -1,0 +1,9 @@
+.env
+.flaskenv
+__pycache__/
+misc.py
+setup.py
+venv
+script
+./.DS_Store
+.DS_Store
